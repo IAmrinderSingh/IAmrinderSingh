@@ -6,8 +6,8 @@
      <a herf="https://www.w3schools.com/js/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="50" height="50"></a>
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="js" width="50" height="50"></a>
      <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"></a>
+    <a href=https://code.visualstudio.com/"" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/visualstudio.svg" alt="VScode" width="50" height="50"</a>
     <a href="https://www.tutorialspoint.com/unix/index.htm" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="C++" width="50" height="50"></a>
-    
   </p>
   
   <center>
