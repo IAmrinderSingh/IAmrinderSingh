@@ -14,10 +14,10 @@
     <table align="center">
       <tr>
           <td>
-              <img width="440px" align="center" src="https://github-readme-stats.vercel.app/api?username=IAmrinderSingh&theme=github_dark&count_private=true&hide_border=true" />
+              <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api?username=IAmrinderSingh&theme=github_dark&count_private=true&hide_border=true" />
           </td>
           <td>
-              <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmrinderSingh&theme=github_dark&layout=compact&hide_border=true" alt="IAmrinderSingh" />                   
+              <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmrinderSingh&theme=github_dark&layout=compact&hide_border=true" alt="IAmrinderSingh" />                   
         </td>
       </tr>  
     </table>
