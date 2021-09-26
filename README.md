@@ -12,7 +12,7 @@
   </p>
 <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api?username=IAmrinderSingh&theme=github_dark&count_private=true&hide_border=true" />
 <img width="540px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmrinderSingh&theme=github_dark&layout=compact&hide_border=true" alt="IAmrinderSingh" />
-  <p>How to reach me <a href = "mailto: amrindersingh1703@gamil.com">Send Email</a></p> 
+  <p>How to reach me <a href = "https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=amrindersingh1703@gamil.com">Send Email</a></p> 
     
   <h1>Contact me</h1>
   <p >
